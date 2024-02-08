@@ -1,0 +1,12 @@
+* {
+    font-family: sans-serif;
+    color: white;
+}
+
+body {
+    background: rgb(20, 36, 70);
+}
+
+.textCenter {
+    text-align: center;
+}
